@@ -1,0 +1,70 @@
+
+
+.dubl{           
+    margin-right: -120px;
+    top: 300px;
+    width: 100px;
+    
+    z-index: 106;    
+    color: lightsalmon;
+}
+
+li{
+    list-style-type: none;
+    color: rgb(46, 22, 180);
+
+}
+
+.check_icon{
+    padding-right: 10px;
+}
+
+.id1{
+    margin-left: 37px;
+    color: hotpink;
+}
+
+.pbm{
+     
+    color: lightgoldenrodyellow 
+}
+
+body{
+    background-color: rgb(164, 173, 169);
+}
+
+table{
+    margin-right: 300px;
+    
+}
+.bac{
+    color: pink;
+}
+td{
+    margin-left:300 px ;
+    text-align: center;
+
+}
+
+
+.button{
+  
+   margin-top: 50px;
+   color: red;
+}
+
+.bac{
+    margin-left: 170px;
+    margin-top: 400px;
+    font-size: 24px;
+    
+}
+
+.url{
+    text-align: end;
+    font-size: 26px;
+    color: aqua;
+}
+p{
+    color: seagreen;
+}
